@@ -1,0 +1,85 @@
+ 117  sudo apt update
+  118  sudo apt install git
+  119  git --version
+  120  git --help
+  121  git clone https://github.com/nithishknnithi/javahome-1.git
+  122  ls -l
+  123  cd javahome
+  124  cd javahome-1/
+  125  ls
+  126  mkdir calucaltor
+  127  cd calucaltor/
+  128  touch add.py
+  129  touch sub.py
+  130  touch mul.py
+  131  touch div.py
+  132  ls
+  133  ls -a
+  134  cd
+  135  cd javahome-1/
+  136  ls -l
+  137  ls -a
+  138  git init
+  139  ls -a
+  140  rm -rf git
+  141  git init
+  142  git status
+  143  cd calucaltor/
+  144  git modular.py
+  145  touch modular.py
+  146  git status
+  147  cd ..
+  148  touch nithi.py
+  149  git status
+  150  rm -rf .git
+  151  touch prabhu
+  152  git status
+  153  git init
+  154  ls -a
+  155  git status
+  156  git add calucaltor/
+  157  git status
+  158  git rm --cached calucaltor/
+  159  git status
+  160  git rm --cached calucaltor/
+  161  git rm --cached -r calucaltor/
+  162  git status
+  163  git add calucaltor/
+  164  git status
+  165  git rm --cached -r calucaltor/
+  166  git add calucaltor/
+  167  git commit -m "adding calu folder"
+  168  git status
+  169  git push
+  170  git config --global user.name nithishknnithi
+  171  git config --global user.mail nithish08kn@gmail.com
+  172  git remote -v
+  173  git remote add origin https://github.com/nithishknnithi/javahome-1.git
+  174  git remote -v
+  175  git push
+  176  git push -u origin main
+  177  git config --list
+  178  git push -f
+  179  git push --set-upstream origin master
+  180  *Nithish09
+  181  git push --set-upstream origin master
+  182  cd
+  183  cd javahome-1/
+  184  git push --set-upstream origin mast
+  185  git status
+  186  git push -f
+  187  git push --set-upstream origin mast
+  188  git push -f
+  189  git push --set-upstream origin mast
+  190  git status
+  191  git push -f
+  192  git push --set-upstream origin mast
+  193  git status
+  194  git push -f
+  195  git status
+  196  git add prabhu
+  197  git status
+  198  git commit -m "adding prabhu"
+  199  git push
+  200  git log
+  201  history
